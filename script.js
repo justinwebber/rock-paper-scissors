@@ -42,3 +42,5 @@ let userChoice = prompt("Choose rock, paper, or scissors")
  } else if (result == 3 && userChoice == "scissors") {
     console.log("It's a tie!");
  } else console.log("Enter a valid answer!")
+ 
+  
